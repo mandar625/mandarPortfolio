@@ -10,7 +10,7 @@
 .hero {
     height: 100vh;
     width: 100%;
-    background-image: url(http://www.habilelabs.io/wp-content/uploads/2017/09/it-background-5.jpg);
+    background:rgb(0, 0, 0);
     background-size: cover;
     background-position: center;
     backdrop-filter: blur(50);
